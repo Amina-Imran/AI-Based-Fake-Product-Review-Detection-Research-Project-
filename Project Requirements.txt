@@ -1,0 +1,29 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# NLP Libraries
+nltk
+spacy
+transformers
+sentencepiece
+
+# Model Serving / API
+fastapi
+uvicorn
+
+# Streamlit Web App
+streamlit
+
+# Chrome Extension Backend Support
+requests
+
+# Utility Libraries
+joblib
+pickle-mixin
+
+# (fordeep learning models)
+torch
